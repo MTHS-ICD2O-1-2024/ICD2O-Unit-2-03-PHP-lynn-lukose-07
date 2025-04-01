@@ -32,12 +32,15 @@
       <div class="page-content-php">
         <div id="user-info">
           <?php
-            $street_number = $_GET["street-number"];
-            $street_name = $_GET["street-name"];
+          $street_number = $_GET["street-number"];
+          $street_name = $_GET["street-name"];
 
-            echo "<p>Your info is: " . $street_number . " " . $street_name . ".</p>";
+          echo "<p>Your info is: " . $street_number . " " . $street_name . ".</p>";
           ?>
         </div>
+      </div>
+      <div class="page-content-answer">
+        <a href="./index.php">Return ...</a>
       </div>
     </main>
   </div>
