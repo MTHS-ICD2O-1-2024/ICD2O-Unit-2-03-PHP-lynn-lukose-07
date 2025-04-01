@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
     <link rel="manifest" href="site.webmanifest" />
-    <title>The Address program,in PHP</title>
+    <title>The Address program, in PHP</title>
   </head>
   <body>
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
@@ -25,7 +25,7 @@
       </header>
       <main class="mdl-layout__content">
         <div class="right-image">
-          <img src="./images/notebook-animation.svg" alt="laptop image" width="250" />
+          <img src="./images/street.jpg" alt="laptop image" width="250" />
         </div>
         <div class="page-content-php">
           <form action="answer.php" method="GET">
