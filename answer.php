@@ -35,7 +35,7 @@
             $street_number = $_GET["street-number"];
             $street_name = $_GET["street-name"];
 
-            echo "<p>Your info is: " . $street_number . $street_name . ".</p>";
+            echo "<p>Your info is: " . $street_number . " " . $street_name . ".</p>";
           ?>
         </div>
       </div>
