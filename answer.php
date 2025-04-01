@@ -32,9 +32,10 @@
       <div class="page-content-php">
         <div id="user-info">
           <?php
-          $street_number = $_GET["street-number"];
-          $street_name = $_GET["street-name"];
-          echo "<p>Your info is: " . $street_number . ", street-number " . $street_name . ".</p>";
+            $street_number = $_GET["street-number"];
+            $street_name = $_GET["street-name"];
+
+            echo "<p>Your info is: " . $street_number . ", street-number " . $street_name . ".</p>";
           ?>
         </div>
       </div>
